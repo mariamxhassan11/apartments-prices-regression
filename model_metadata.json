@@ -1,0 +1,73 @@
+{
+    "project_title": "Apartments Sale Price Regression",
+    "task_type": "regression",
+    "target_column": "price_egp",
+    "best_model_name": "Ridge",
+    "numeric_features": [
+        "area_sqm",
+        "bedrooms",
+        "bathrooms",
+        "floor"
+    ],
+    "categorical_features": [
+        "district",
+        "finishing",
+        "compound",
+        "payment_method"
+    ],
+    "feature_ranges": {
+        "area_sqm": {
+            "min": 65,
+            "max": 380,
+            "default": 215,
+            "dtype": "int"
+        },
+        "bedrooms": {
+            "min": 1,
+            "max": 5,
+            "default": 3,
+            "dtype": "int"
+        },
+        "bathrooms": {
+            "min": 1,
+            "max": 4,
+            "default": 3,
+            "dtype": "int"
+        },
+        "floor": {
+            "min": 0,
+            "max": 12,
+            "default": 6,
+            "dtype": "int"
+        }
+    },
+    "categorical_options": {
+        "district": [
+            "New Cairo",
+            "Nasr City",
+            "Maadi",
+            "El Obour",
+            "6th of October",
+            "Madinaty"
+        ],
+        "finishing": [
+            "Super Lux",
+            "Ultra Super Lux",
+            "Semi-Finished",
+            "Core & Shell"
+        ],
+        "compound": [
+            "Yes",
+            "No"
+        ],
+        "payment_method": [
+            "Cash",
+            "Installments"
+        ]
+    },
+    "metrics": {
+        "r2": 0.9073,
+        "mae": 482918.65,
+        "rmse": 595868.93
+    }
+}

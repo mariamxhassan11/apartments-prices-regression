@@ -1,0 +1,451 @@
+district,area_sqm,bedrooms,bathrooms,floor,finishing,compound,payment_method,price_egp
+6th of October,227,5,3,11,Core & Shell,No,Installments,4181956.6
+Nasr City,329,5,4,3,Super Lux,No,Installments,6196755.93
+New Cairo,202,5,3,8,Ultra Super Lux,Yes,Cash,3726281.0
+New Cairo,365,2,3,1,Super Lux,No,Cash,4056033.17
+Nasr City,94,3,3,11,Core & Shell,Yes,Cash,1743288.98
+6th of October,368,2,1,7,Core & Shell,Yes,Cash,1897246.66
+Madinaty,232,2,4,0,Semi-Finished,No,Installments,2859719.04
+Maadi,155,3,1,2,Semi-Finished,Yes,Installments,1066190.46
+Madinaty,155,4,2,3,Super Lux,Yes,Installments,2822541.88
+Nasr City,275,5,1,5,Super Lux,No,Installments,2868908.3
+Maadi,364,1,2,0,Semi-Finished,No,Cash,700000.0
+6th of October,238,1,4,7,Ultra Super Lux,Yes,Installments,5139292.91
+El Obour,198,3,4,1,Semi-Finished,Yes,Cash,2018447.78
+El Obour,88,1,1,4,Ultra Super Lux,Yes,Installments,700000.0
+Madinaty,265,4,1,5,Super Lux,No,Cash,1467981.05
+6th of October,283,2,3,7,Super Lux,No,Installments,3222734.95
+Maadi,71,5,2,2,Core & Shell,No,Installments,700000.0
+Madinaty,70,1,3,11,Core & Shell,Yes,Cash,1110091.64
+Nasr City,182,1,3,8,Ultra Super Lux,No,Installments,3255679.7
+Madinaty,225,3,4,11,Ultra Super Lux,No,Cash,5174062.57
+6th of October,149,3,1,4,Semi-Finished,Yes,Installments,700000.0
+6th of October,312,2,4,7,Ultra Super Lux,Yes,Cash,5135334.29
+El Obour,230,5,1,3,Super Lux,Yes,Cash,1253046.33
+Nasr City,209,1,4,11,Super Lux,No,Cash,3875291.1
+El Obour,95,2,4,8,Super Lux,No,Cash,1469249.05
+Maadi,284,5,4,7,Core & Shell,No,Installments,5244921.93
+Maadi,197,2,2,4,Ultra Super Lux,No,Cash,700000.0
+New Cairo,128,1,4,2,Ultra Super Lux,No,Cash,1773295.5
+6th of October,140,3,2,0,Core & Shell,No,Cash,700000.0
+Nasr City,195,3,4,4,Core & Shell,No,Cash,3096667.58
+Nasr City,376,3,1,4,Core & Shell,Yes,Installments,3074621.72
+El Obour,102,4,2,3,Super Lux,No,Cash,700000.0
+Madinaty,118,2,1,9,Ultra Super Lux,No,Installments,700000.0
+Madinaty,194,1,1,9,Semi-Finished,Yes,Installments,918509.36
+El Obour,282,2,1,7,Semi-Finished,Yes,Cash,1187276.64
+Madinaty,66,3,2,2,Ultra Super Lux,Yes,Cash,700000.0
+Nasr City,310,2,3,11,Ultra Super Lux,Yes,Cash,5690893.35
+El Obour,204,5,2,9,Core & Shell,No,Cash,2010716.57
+Madinaty,360,2,3,8,Core & Shell,No,Installments,4155886.45
+New Cairo,322,4,2,2,Super Lux,Yes,Installments,5506440.47
+6th of October,169,4,4,3,Core & Shell,Yes,Cash,2296772.66
+New Cairo,249,3,3,5,Ultra Super Lux,No,Cash,3000875.1
+Madinaty,367,1,4,8,Super Lux,Yes,Installments,6915027.35
+Maadi,308,5,3,9,Semi-Finished,Yes,Installments,6232242.66
+Nasr City,228,1,2,1,Ultra Super Lux,No,Cash,700000.0
+New Cairo,196,1,2,1,Semi-Finished,Yes,Cash,700000.0
+New Cairo,267,5,3,1,Ultra Super Lux,No,Cash,4940362.27
+El Obour,274,4,4,4,Ultra Super Lux,Yes,Cash,5392060.86
+El Obour,165,3,1,5,Super Lux,No,Cash,700000.0
+El Obour,335,2,3,2,Super Lux,Yes,Cash,3382565.63
+Madinaty,113,4,3,2,Core & Shell,No,Installments,1437333.91
+Maadi,303,3,4,1,Ultra Super Lux,No,Installments,5399637.72
+New Cairo,279,4,1,10,Ultra Super Lux,Yes,Installments,4770802.12
+6th of October,355,5,3,5,Super Lux,Yes,Installments,5409890.45
+El Obour,344,1,1,0,Semi-Finished,Yes,Cash,700000.0
+Maadi,380,5,1,8,Core & Shell,Yes,Cash,4006651.03
+Madinaty,141,2,2,10,Ultra Super Lux,Yes,Installments,2938677.79
+Maadi,368,5,4,9,Super Lux,No,Cash,7063076.74
+El Obour,215,1,3,3,Ultra Super Lux,No,Cash,994387.95
+Nasr City,361,4,3,1,Super Lux,No,Cash,4270866.44
+New Cairo,221,3,1,12,Core & Shell,No,Installments,2253973.82
+El Obour,262,2,3,11,Semi-Finished,Yes,Installments,4224032.81
+6th of October,351,4,1,5,Ultra Super Lux,No,Installments,3519737.82
+New Cairo,88,3,3,4,Ultra Super Lux,No,Installments,1744826.91
+Maadi,73,1,4,2,Core & Shell,No,Installments,1280600.01
+6th of October,196,5,3,12,Semi-Finished,Yes,Installments,5412537.27
+New Cairo,141,4,1,2,Ultra Super Lux,Yes,Installments,1010529.78
+6th of October,290,3,1,4,Core & Shell,No,Cash,700000.0
+Maadi,195,3,3,3,Ultra Super Lux,Yes,Installments,3503392.98
+El Obour,154,5,3,4,Ultra Super Lux,No,Cash,2621156.65
+6th of October,181,4,1,1,Core & Shell,Yes,Cash,700000.0
+El Obour,174,4,2,10,Core & Shell,Yes,Installments,2800640.9
+Maadi,335,1,2,0,Super Lux,Yes,Cash,1610749.99
+Maadi,291,4,3,4,Super Lux,No,Cash,3210292.41
+6th of October,308,5,4,10,Ultra Super Lux,Yes,Installments,7365629.67
+6th of October,372,4,3,0,Core & Shell,No,Cash,3078081.92
+Maadi,119,1,4,2,Semi-Finished,Yes,Installments,1196016.3
+6th of October,101,3,3,7,Semi-Finished,No,Cash,744995.12
+6th of October,119,4,1,10,Ultra Super Lux,No,Cash,700000.0
+6th of October,76,5,3,7,Super Lux,No,Cash,1408272.01
+Madinaty,249,4,4,8,Core & Shell,No,Cash,4348907.18
+6th of October,301,2,4,0,Core & Shell,No,Installments,3197330.55
+New Cairo,357,1,3,3,Super Lux,No,Installments,3854369.96
+Maadi,268,3,3,5,Core & Shell,Yes,Installments,3557732.71
+Maadi,275,2,2,6,Ultra Super Lux,No,Cash,1844405.73
+Nasr City,290,5,3,4,Core & Shell,Yes,Cash,4998441.33
+El Obour,71,4,3,12,Core & Shell,No,Cash,1976286.94
+Nasr City,284,1,1,6,Super Lux,No,Cash,700000.0
+6th of October,375,4,4,10,Super Lux,Yes,Installments,8181514.47
+6th of October,92,4,2,9,Semi-Finished,No,Cash,700000.0
+New Cairo,357,4,1,7,Ultra Super Lux,Yes,Installments,5944625.92
+New Cairo,276,4,3,9,Super Lux,No,Cash,5054997.13
+New Cairo,253,1,4,5,Super Lux,Yes,Cash,4281583.52
+New Cairo,139,2,3,10,Super Lux,Yes,Installments,4495768.65
+New Cairo,306,5,3,3,Core & Shell,No,Installments,5027678.65
+New Cairo,178,2,3,0,Ultra Super Lux,Yes,Installments,3971231.22
+New Cairo,231,1,3,10,Ultra Super Lux,Yes,Installments,5397365.39
+New Cairo,170,5,4,4,Core & Shell,No,Cash,3612698.07
+Madinaty,215,3,1,9,Core & Shell,No,Installments,765201.26
+New Cairo,148,2,3,9,Super Lux,No,Installments,2926578.12
+Maadi,276,1,3,9,Semi-Finished,Yes,Cash,2663036.67
+New Cairo,331,1,2,3,Semi-Finished,Yes,Cash,2374045.94
+El Obour,333,1,2,4,Ultra Super Lux,Yes,Cash,2873140.61
+New Cairo,241,5,4,3,Semi-Finished,No,Cash,4557521.42
+Madinaty,335,4,3,8,Super Lux,No,Installments,6189386.14
+6th of October,376,3,3,2,Core & Shell,Yes,Installments,4293514.6
+Madinaty,246,5,3,2,Ultra Super Lux,No,Cash,3463519.76
+Madinaty,223,5,4,9,Ultra Super Lux,No,Installments,6456827.56
+6th of October,253,2,4,6,Core & Shell,No,Installments,3401826.83
+New Cairo,250,3,3,1,Semi-Finished,No,Cash,2397072.07
+New Cairo,373,1,3,8,Ultra Super Lux,No,Installments,5647637.38
+6th of October,310,5,4,7,Core & Shell,Yes,Installments,5893280.95
+El Obour,106,3,3,11,Core & Shell,Yes,Cash,1777180.03
+Nasr City,349,2,1,5,Semi-Finished,No,Installments,3216715.3
+Maadi,364,4,1,12,Semi-Finished,No,Installments,4715917.49
+6th of October,358,3,4,8,Super Lux,Yes,Cash,5331417.47
+New Cairo,245,1,1,10,Semi-Finished,Yes,Installments,1393666.97
+Maadi,246,5,2,2,Semi-Finished,Yes,Cash,2503358.75
+New Cairo,282,4,3,3,Core & Shell,Yes,Cash,4356433.2
+Nasr City,227,2,2,6,Ultra Super Lux,Yes,Cash,2444629.42
+Nasr City,110,1,2,0,Core & Shell,No,Cash,700000.0
+6th of October,156,4,2,12,Super Lux,Yes,Cash,2648014.66
+Maadi,169,2,1,0,Core & Shell,Yes,Cash,700000.0
+Madinaty,271,1,3,0,Super Lux,Yes,Installments,3229192.65
+Maadi,203,5,3,11,Semi-Finished,Yes,Cash,4385289.29
+Madinaty,93,2,4,7,Ultra Super Lux,No,Installments,2972733.34
+Nasr City,315,4,2,12,Ultra Super Lux,No,Cash,5265573.52
+New Cairo,255,1,1,5,Core & Shell,Yes,Cash,700000.0
+Madinaty,111,3,2,2,Ultra Super Lux,Yes,Cash,1610439.7
+Madinaty,315,1,2,9,Super Lux,No,Installments,3552850.93
+6th of October,327,4,3,6,Super Lux,Yes,Installments,5678800.36
+El Obour,128,4,4,5,Semi-Finished,Yes,Cash,2966906.18
+Nasr City,332,3,1,4,Core & Shell,No,Installments,2370035.79
+Madinaty,76,4,3,2,Semi-Finished,No,Cash,700000.0
+Nasr City,356,1,2,3,Ultra Super Lux,Yes,Cash,3341808.11
+6th of October,93,2,3,12,Semi-Finished,Yes,Installments,2007920.27
+New Cairo,203,1,2,12,Ultra Super Lux,No,Cash,2892183.44
+Maadi,149,4,1,10,Super Lux,No,Cash,931403.79
+Nasr City,138,3,3,10,Core & Shell,No,Installments,3662389.33
+6th of October,315,3,3,0,Core & Shell,Yes,Cash,3314859.53
+6th of October,288,5,3,8,Semi-Finished,Yes,Cash,4995349.95
+6th of October,111,3,3,4,Ultra Super Lux,Yes,Installments,2339136.75
+Maadi,145,3,3,1,Super Lux,No,Installments,1112681.21
+Nasr City,185,4,1,11,Ultra Super Lux,Yes,Cash,3333747.69
+Madinaty,107,2,4,10,Semi-Finished,No,Cash,2466000.41
+6th of October,210,2,1,8,Ultra Super Lux,Yes,Installments,1908875.38
+Maadi,138,4,3,11,Super Lux,No,Installments,4436523.63
+New Cairo,117,3,2,6,Semi-Finished,Yes,Cash,996785.79
+El Obour,297,1,2,7,Super Lux,No,Installments,1852970.48
+Nasr City,359,2,3,12,Semi-Finished,No,Installments,5613777.53
+Maadi,264,4,4,2,Core & Shell,No,Installments,4323477.68
+El Obour,226,1,3,6,Ultra Super Lux,No,Cash,2063009.65
+El Obour,101,3,1,10,Super Lux,Yes,Cash,700000.0
+Maadi,161,4,4,0,Super Lux,No,Cash,2599685.69
+Madinaty,113,2,4,5,Ultra Super Lux,Yes,Cash,2463422.22
+Madinaty,74,1,1,9,Super Lux,Yes,Cash,700000.0
+Maadi,104,1,4,5,Super Lux,No,Installments,1804899.03
+Maadi,217,2,3,10,Super Lux,No,Installments,3306075.46
+6th of October,170,1,3,9,Core & Shell,Yes,Installments,2371765.95
+New Cairo,105,2,2,11,Super Lux,Yes,Cash,2096425.62
+Madinaty,228,4,1,5,Core & Shell,Yes,Cash,1923404.21
+6th of October,322,5,4,2,Ultra Super Lux,Yes,Installments,6363884.67
+El Obour,275,3,4,5,Core & Shell,Yes,Installments,4673341.04
+El Obour,266,4,4,2,Super Lux,Yes,Installments,5727067.4
+El Obour,259,3,3,9,Super Lux,Yes,Installments,4840391.46
+Maadi,117,3,1,8,Super Lux,No,Cash,700000.0
+Nasr City,211,2,3,6,Core & Shell,Yes,Cash,2743629.87
+6th of October,346,5,4,12,Semi-Finished,Yes,Installments,6885409.99
+Nasr City,374,3,3,3,Semi-Finished,No,Cash,4483890.87
+New Cairo,307,3,4,2,Ultra Super Lux,Yes,Cash,6066203.43
+New Cairo,115,4,4,5,Ultra Super Lux,Yes,Cash,4767321.46
+6th of October,178,5,3,8,Ultra Super Lux,No,Cash,2431365.15
+El Obour,337,5,4,2,Super Lux,Yes,Installments,6248502.89
+Madinaty,184,3,3,7,Semi-Finished,Yes,Installments,3457843.77
+New Cairo,253,5,2,5,Semi-Finished,No,Cash,2621745.75
+Nasr City,110,4,3,3,Ultra Super Lux,No,Installments,3428175.72
+Nasr City,307,2,2,4,Semi-Finished,Yes,Cash,2600104.6
+Madinaty,375,3,2,2,Ultra Super Lux,No,Installments,3968593.82
+Maadi,114,1,3,1,Super Lux,No,Installments,700000.0
+El Obour,75,3,1,8,Semi-Finished,Yes,Installments,700000.0
+Maadi,112,3,1,12,Super Lux,No,Installments,700000.0
+6th of October,120,2,3,2,Super Lux,No,Installments,700000.0
+New Cairo,72,1,3,5,Semi-Finished,Yes,Installments,894043.68
+Madinaty,78,1,4,4,Core & Shell,Yes,Installments,1838199.68
+Madinaty,279,1,4,9,Ultra Super Lux,No,Cash,4354708.71
+Madinaty,309,2,3,10,Semi-Finished,No,Installments,4541974.37
+Maadi,118,5,1,7,Super Lux,Yes,Cash,700000.0
+Maadi,337,1,4,4,Ultra Super Lux,Yes,Installments,5451204.24
+6th of October,195,5,4,10,Super Lux,No,Installments,5757648.01
+Nasr City,73,4,1,7,Ultra Super Lux,Yes,Installments,2236250.27
+Nasr City,276,2,3,10,Semi-Finished,Yes,Cash,4659304.38
+6th of October,186,5,1,4,Super Lux,No,Cash,700000.0
+Madinaty,178,1,2,10,Ultra Super Lux,No,Cash,1893508.82
+Nasr City,84,1,4,9,Ultra Super Lux,Yes,Cash,3406952.7
+6th of October,85,5,4,12,Semi-Finished,Yes,Cash,3927583.68
+Nasr City,272,5,4,5,Ultra Super Lux,No,Installments,5641005.59
+6th of October,97,4,1,4,Ultra Super Lux,Yes,Cash,700000.0
+Nasr City,197,2,1,1,Super Lux,No,Cash,700000.0
+Madinaty,255,3,3,9,Semi-Finished,Yes,Cash,4315364.08
+Maadi,90,4,4,9,Semi-Finished,Yes,Installments,4253515.32
+Maadi,153,4,2,5,Super Lux,Yes,Installments,3174534.1
+Madinaty,156,4,3,6,Core & Shell,No,Installments,2507861.83
+Nasr City,97,1,1,2,Super Lux,No,Cash,700000.0
+Madinaty,302,5,2,2,Super Lux,Yes,Installments,5131769.55
+6th of October,82,2,3,11,Core & Shell,Yes,Cash,711146.34
+Maadi,338,1,1,6,Ultra Super Lux,No,Installments,2419726.7
+New Cairo,353,4,2,10,Semi-Finished,No,Installments,5300256.97
+Nasr City,91,2,3,9,Semi-Finished,Yes,Installments,2268137.99
+New Cairo,369,1,2,3,Core & Shell,No,Installments,2591436.66
+New Cairo,172,3,1,1,Semi-Finished,No,Installments,700000.0
+El Obour,290,4,3,8,Core & Shell,Yes,Cash,4688600.53
+New Cairo,83,1,1,12,Ultra Super Lux,Yes,Cash,1346974.29
+New Cairo,287,1,4,8,Core & Shell,No,Installments,4456952.96
+Madinaty,345,4,4,5,Semi-Finished,No,Cash,4858556.25
+El Obour,168,3,2,1,Semi-Finished,Yes,Installments,827886.15
+El Obour,353,5,4,2,Core & Shell,No,Installments,4791780.15
+El Obour,101,3,1,4,Semi-Finished,Yes,Installments,700000.0
+6th of October,308,4,2,10,Core & Shell,Yes,Installments,4044628.79
+El Obour,107,5,3,10,Semi-Finished,No,Installments,3368423.83
+Madinaty,190,1,1,4,Super Lux,Yes,Installments,700000.0
+6th of October,73,3,3,12,Ultra Super Lux,Yes,Installments,2977171.84
+Nasr City,78,3,3,8,Semi-Finished,Yes,Cash,1753925.03
+6th of October,195,5,3,9,Semi-Finished,Yes,Cash,4232858.27
+Nasr City,248,1,3,2,Semi-Finished,Yes,Installments,2393033.82
+El Obour,346,3,1,1,Core & Shell,No,Cash,700000.0
+El Obour,117,5,4,9,Semi-Finished,Yes,Installments,4744856.04
+Nasr City,105,3,1,7,Core & Shell,Yes,Cash,700000.0
+Maadi,85,1,4,6,Semi-Finished,Yes,Cash,1725231.8
+Madinaty,359,1,3,11,Super Lux,No,Installments,5241096.24
+6th of October,272,2,4,8,Super Lux,Yes,Installments,4980830.26
+Madinaty,215,5,3,2,Ultra Super Lux,Yes,Cash,3229413.1
+Madinaty,133,4,2,5,Core & Shell,Yes,Installments,1927805.31
+New Cairo,365,3,3,4,Ultra Super Lux,Yes,Cash,5922210.43
+El Obour,91,1,4,4,Semi-Finished,No,Installments,700000.0
+6th of October,180,3,2,9,Semi-Finished,No,Cash,700000.0
+Madinaty,206,3,2,7,Super Lux,Yes,Cash,2615993.12
+6th of October,105,4,3,0,Ultra Super Lux,No,Cash,700000.0
+Madinaty,170,1,1,0,Semi-Finished,No,Installments,700000.0
+El Obour,138,2,4,2,Semi-Finished,No,Cash,700000.0
+Madinaty,124,5,2,10,Core & Shell,Yes,Installments,2292802.82
+Nasr City,362,3,1,1,Semi-Finished,Yes,Installments,3501505.53
+El Obour,186,4,3,1,Ultra Super Lux,Yes,Installments,2800123.22
+6th of October,267,4,3,1,Super Lux,Yes,Installments,4016821.93
+Maadi,75,5,3,3,Super Lux,Yes,Installments,2705303.99
+Madinaty,211,5,3,0,Semi-Finished,Yes,Cash,3495889.75
+Nasr City,280,1,4,9,Semi-Finished,No,Installments,4458566.49
+El Obour,367,3,2,8,Semi-Finished,No,Installments,3894783.56
+New Cairo,78,3,4,4,Core & Shell,No,Cash,780500.37
+El Obour,131,5,2,4,Semi-Finished,No,Cash,700000.0
+6th of October,244,2,1,8,Semi-Finished,No,Installments,916236.94
+6th of October,306,3,1,4,Core & Shell,Yes,Installments,817570.81
+New Cairo,224,4,2,12,Ultra Super Lux,Yes,Installments,5517333.81
+Nasr City,74,5,3,12,Core & Shell,No,Cash,3002802.86
+6th of October,188,3,1,10,Super Lux,Yes,Installments,2222530.57
+Nasr City,337,1,4,7,Core & Shell,Yes,Installments,5267664.06
+Nasr City,305,5,2,10,Core & Shell,Yes,Cash,4041064.49
+El Obour,207,4,1,0,Ultra Super Lux,Yes,Cash,804584.57
+Nasr City,231,1,2,0,Ultra Super Lux,Yes,Cash,1744576.1
+Madinaty,121,5,3,3,Semi-Finished,No,Installments,2114069.78
+6th of October,202,5,2,7,Core & Shell,No,Installments,1730949.3
+6th of October,81,3,1,2,Ultra Super Lux,No,Installments,700000.0
+Maadi,337,1,2,0,Super Lux,Yes,Cash,1931056.3
+Nasr City,67,5,1,10,Semi-Finished,Yes,Cash,1662498.12
+Maadi,307,4,1,11,Core & Shell,Yes,Installments,3217932.91
+El Obour,172,1,1,8,Super Lux,Yes,Cash,700000.0
+Maadi,115,3,4,8,Ultra Super Lux,No,Cash,4030589.14
+Nasr City,238,2,3,8,Semi-Finished,Yes,Cash,3457038.91
+6th of October,180,5,3,8,Super Lux,No,Cash,3046404.66
+El Obour,247,2,2,1,Core & Shell,No,Installments,700000.0
+Nasr City,218,5,2,10,Super Lux,No,Installments,4546789.98
+El Obour,311,3,1,10,Semi-Finished,No,Cash,2161023.89
+New Cairo,140,3,3,10,Core & Shell,Yes,Cash,3182510.21
+Nasr City,308,3,2,3,Core & Shell,Yes,Cash,3311692.44
+New Cairo,145,3,2,1,Super Lux,No,Cash,700000.0
+Maadi,293,1,3,6,Semi-Finished,Yes,Cash,2829912.99
+Nasr City,136,1,1,10,Core & Shell,Yes,Installments,700000.0
+New Cairo,282,5,2,2,Semi-Finished,Yes,Cash,3750480.31
+Madinaty,307,1,1,8,Ultra Super Lux,No,Installments,2369820.29
+6th of October,378,5,3,6,Super Lux,No,Installments,5181540.86
+Maadi,142,1,3,7,Semi-Finished,No,Cash,700000.0
+Nasr City,222,1,2,8,Ultra Super Lux,No,Installments,2342099.56
+Nasr City,112,1,2,7,Ultra Super Lux,No,Cash,700000.0
+6th of October,376,4,3,6,Semi-Finished,No,Cash,4161719.67
+6th of October,362,3,1,8,Semi-Finished,No,Cash,1380428.19
+New Cairo,88,4,1,10,Super Lux,Yes,Installments,1750720.55
+New Cairo,174,1,4,0,Super Lux,No,Installments,1327847.42
+New Cairo,116,1,3,10,Core & Shell,Yes,Installments,3342430.35
+El Obour,354,4,2,3,Super Lux,No,Cash,3087692.97
+Maadi,323,5,3,3,Semi-Finished,Yes,Installments,5332618.01
+Nasr City,203,3,2,4,Core & Shell,Yes,Installments,1953583.88
+Maadi,370,5,1,7,Ultra Super Lux,Yes,Installments,4026524.41
+6th of October,339,3,2,9,Ultra Super Lux,Yes,Cash,3851889.94
+Madinaty,108,2,4,0,Semi-Finished,No,Installments,1654174.95
+Maadi,323,3,1,5,Core & Shell,No,Cash,1279479.4
+Maadi,177,5,4,8,Core & Shell,No,Installments,4740287.93
+New Cairo,291,3,3,9,Super Lux,No,Installments,5434876.61
+6th of October,129,2,2,7,Ultra Super Lux,No,Installments,1358959.39
+Maadi,227,2,1,1,Ultra Super Lux,No,Cash,700000.0
+Nasr City,228,1,2,6,Super Lux,No,Cash,1584275.68
+New Cairo,230,2,4,4,Ultra Super Lux,No,Installments,4476816.37
+Maadi,103,4,1,1,Super Lux,No,Installments,700000.0
+6th of October,217,5,4,10,Ultra Super Lux,No,Cash,4690977.48
+Madinaty,333,4,1,0,Ultra Super Lux,No,Cash,1324729.69
+Nasr City,139,4,3,1,Ultra Super Lux,Yes,Installments,3715644.51
+Madinaty,321,5,3,10,Super Lux,Yes,Installments,6850378.78
+6th of October,264,4,2,9,Ultra Super Lux,Yes,Cash,3279970.27
+6th of October,162,4,4,5,Ultra Super Lux,Yes,Installments,4917046.56
+6th of October,168,4,4,10,Core & Shell,Yes,Cash,3962104.96
+Madinaty,228,2,1,11,Ultra Super Lux,No,Installments,2733819.94
+El Obour,177,5,3,7,Semi-Finished,No,Installments,3582319.54
+Nasr City,167,5,2,2,Ultra Super Lux,Yes,Installments,3053313.58
+6th of October,101,5,3,4,Ultra Super Lux,No,Installments,2390473.92
+El Obour,170,4,4,10,Core & Shell,Yes,Cash,4114874.32
+New Cairo,251,2,2,1,Core & Shell,No,Installments,876695.6
+El Obour,85,5,3,11,Super Lux,No,Installments,2833564.58
+New Cairo,212,3,3,7,Super Lux,Yes,Installments,4521632.28
+Madinaty,193,5,1,3,Semi-Finished,Yes,Installments,2814997.11
+El Obour,251,1,1,10,Core & Shell,Yes,Installments,1106143.55
+Madinaty,348,3,4,9,Super Lux,No,Installments,7193666.72
+6th of October,263,5,3,11,Super Lux,Yes,Cash,5040810.98
+El Obour,299,4,1,5,Super Lux,No,Installments,2644190.76
+El Obour,172,5,3,2,Core & Shell,No,Cash,1694374.29
+6th of October,73,2,2,10,Core & Shell,No,Cash,700000.0
+New Cairo,290,2,3,7,Semi-Finished,No,Cash,3602238.03
+6th of October,273,5,3,7,Core & Shell,Yes,Cash,4562431.8
+Nasr City,309,4,4,2,Core & Shell,Yes,Installments,5868514.6
+El Obour,352,4,2,11,Core & Shell,Yes,Installments,5850177.95
+Nasr City,130,4,2,8,Semi-Finished,Yes,Installments,2182925.73
+6th of October,217,5,1,9,Ultra Super Lux,No,Cash,1965658.18
+Madinaty,255,5,2,12,Ultra Super Lux,Yes,Installments,6144384.41
+6th of October,282,1,4,4,Super Lux,Yes,Cash,2993944.06
+Maadi,218,2,1,9,Ultra Super Lux,Yes,Cash,1873931.56
+Nasr City,341,3,3,8,Ultra Super Lux,Yes,Installments,6033143.92
+Maadi,146,3,2,6,Semi-Finished,No,Cash,700000.0
+Nasr City,285,2,3,9,Semi-Finished,No,Cash,2666111.92
+Madinaty,344,1,1,2,Ultra Super Lux,No,Cash,1545702.9
+Maadi,175,2,2,5,Ultra Super Lux,No,Cash,700000.0
+Maadi,156,1,1,9,Ultra Super Lux,Yes,Installments,2098948.65
+Nasr City,76,1,1,1,Super Lux,No,Cash,700000.0
+6th of October,203,4,2,5,Semi-Finished,Yes,Cash,1787737.27
+New Cairo,219,2,2,11,Ultra Super Lux,Yes,Cash,3434974.43
+6th of October,87,3,1,4,Core & Shell,Yes,Installments,700000.0
+New Cairo,284,5,4,12,Ultra Super Lux,Yes,Installments,9110627.64
+Nasr City,301,5,2,2,Core & Shell,No,Cash,2441201.13
+El Obour,317,2,1,6,Super Lux,No,Installments,1160278.1
+6th of October,247,5,3,10,Core & Shell,Yes,Installments,4311026.08
+Maadi,262,1,3,3,Semi-Finished,No,Installments,1617876.17
+6th of October,234,5,2,10,Super Lux,No,Installments,4447845.7
+Nasr City,187,1,2,5,Super Lux,Yes,Cash,2151151.3
+El Obour,98,1,3,8,Ultra Super Lux,Yes,Cash,1486889.98
+El Obour,377,3,1,11,Super Lux,No,Installments,3885908.82
+6th of October,67,5,1,5,Super Lux,Yes,Installments,700000.0
+6th of October,70,3,1,3,Core & Shell,No,Installments,700000.0
+Madinaty,368,5,4,9,Ultra Super Lux,Yes,Installments,9519228.52
+6th of October,166,1,2,1,Semi-Finished,Yes,Installments,700000.0
+Nasr City,256,5,4,8,Ultra Super Lux,Yes,Installments,7231472.65
+New Cairo,77,3,4,3,Semi-Finished,Yes,Installments,3133269.36
+Madinaty,100,4,4,3,Core & Shell,No,Cash,1433879.09
+New Cairo,134,3,4,1,Super Lux,No,Cash,2131892.76
+Maadi,353,4,1,4,Super Lux,No,Installments,3458956.42
+Nasr City,169,2,2,12,Ultra Super Lux,No,Installments,2485284.83
+Madinaty,268,3,2,5,Ultra Super Lux,Yes,Cash,3430824.63
+El Obour,377,5,4,9,Ultra Super Lux,Yes,Cash,8160763.36
+Madinaty,119,4,2,5,Super Lux,No,Installments,1500606.19
+Maadi,171,5,3,2,Super Lux,No,Cash,2561941.3
+El Obour,205,4,1,11,Core & Shell,No,Cash,843239.47
+Madinaty,289,3,2,8,Semi-Finished,No,Installments,3877118.97
+El Obour,371,3,1,6,Ultra Super Lux,No,Cash,1773147.25
+6th of October,373,5,3,12,Super Lux,Yes,Installments,7361150.34
+El Obour,100,3,1,2,Semi-Finished,No,Cash,700000.0
+Madinaty,197,5,3,3,Ultra Super Lux,No,Installments,2841440.49
+El Obour,89,1,4,6,Ultra Super Lux,Yes,Cash,1507642.58
+Nasr City,101,4,2,10,Semi-Finished,Yes,Cash,1777238.68
+6th of October,83,5,4,7,Semi-Finished,No,Installments,3458849.93
+6th of October,99,4,2,5,Semi-Finished,No,Cash,700000.0
+Maadi,374,1,4,3,Super Lux,No,Cash,3646793.16
+6th of October,70,4,3,11,Core & Shell,Yes,Installments,2885913.66
+New Cairo,263,5,2,1,Ultra Super Lux,No,Cash,2358834.4
+Nasr City,98,3,4,9,Ultra Super Lux,No,Cash,2550020.63
+Maadi,120,4,1,7,Semi-Finished,Yes,Installments,948012.9
+New Cairo,320,4,1,0,Super Lux,Yes,Installments,2620300.61
+El Obour,275,1,4,8,Semi-Finished,Yes,Installments,4068253.65
+New Cairo,161,2,3,7,Super Lux,Yes,Installments,3977131.89
+Maadi,346,3,4,2,Core & Shell,No,Installments,4873216.6
+6th of October,305,5,1,9,Ultra Super Lux,Yes,Installments,4737279.16
+Nasr City,234,1,2,3,Ultra Super Lux,Yes,Installments,2981031.95
+Maadi,358,5,2,9,Super Lux,Yes,Installments,6708835.44
+New Cairo,291,5,4,3,Core & Shell,No,Cash,3919064.13
+New Cairo,379,4,2,1,Core & Shell,Yes,Cash,3937636.26
+Maadi,191,1,1,11,Ultra Super Lux,No,Installments,969090.54
+Madinaty,344,1,2,10,Ultra Super Lux,Yes,Cash,3801295.31
+Madinaty,85,3,4,9,Semi-Finished,No,Installments,3394309.7
+Maadi,380,2,4,4,Super Lux,No,Cash,3973763.97
+Madinaty,310,5,4,12,Ultra Super Lux,No,Cash,6501957.35
+Maadi,154,3,1,11,Core & Shell,Yes,Installments,1705648.11
+6th of October,70,3,3,2,Core & Shell,No,Cash,700000.0
+Maadi,330,5,2,11,Ultra Super Lux,Yes,Cash,5832577.62
+El Obour,161,4,4,10,Core & Shell,Yes,Cash,3576474.29
+Nasr City,214,4,3,0,Super Lux,No,Installments,3383877.77
+Nasr City,144,5,4,1,Core & Shell,Yes,Cash,3528413.85
+El Obour,81,1,4,10,Core & Shell,No,Cash,869167.59
+New Cairo,202,2,1,11,Ultra Super Lux,Yes,Installments,2695502.16
+New Cairo,204,4,1,6,Super Lux,No,Cash,1215847.17
+New Cairo,104,2,3,0,Super Lux,Yes,Cash,1381417.98
+New Cairo,232,3,4,11,Semi-Finished,No,Cash,5528876.08
+6th of October,138,3,2,12,Super Lux,Yes,Cash,1800989.33
+El Obour,138,5,2,12,Semi-Finished,Yes,Installments,3403877.79
+Nasr City,114,5,2,1,Ultra Super Lux,No,Installments,1725762.02
+El Obour,74,5,3,9,Core & Shell,Yes,Installments,3022035.81
+Nasr City,167,4,1,6,Super Lux,Yes,Cash,1246869.94
+New Cairo,363,2,3,0,Semi-Finished,No,Installments,2581172.69
+6th of October,168,3,1,6,Super Lux,No,Cash,700000.0
+Maadi,354,2,2,12,Ultra Super Lux,No,Cash,4858003.87
+Maadi,344,4,2,7,Semi-Finished,No,Installments,3828654.58
+Madinaty,206,2,1,10,Semi-Finished,No,Installments,752136.14
+New Cairo,361,2,2,12,Semi-Finished,Yes,Installments,5614344.5
+New Cairo,234,5,3,1,Ultra Super Lux,No,Cash,3661323.14
+El Obour,77,2,1,3,Semi-Finished,Yes,Cash,700000.0
+6th of October,221,2,2,6,Core & Shell,Yes,Cash,753957.18
+6th of October,238,2,4,0,Ultra Super Lux,Yes,Cash,2602432.67
+El Obour,226,1,2,5,Core & Shell,Yes,Installments,700000.0
+6th of October,196,3,4,4,Core & Shell,Yes,Installments,3745799.51
+6th of October,92,3,2,10,Ultra Super Lux,No,Cash,855243.21
+Maadi,147,2,4,5,Super Lux,No,Cash,2531632.04
+6th of October,333,5,2,7,Core & Shell,No,Installments,3243276.08
+New Cairo,315,5,4,10,Ultra Super Lux,No,Installments,8927531.23
+Maadi,170,5,1,10,Core & Shell,No,Cash,700000.0
+New Cairo,325,3,1,0,Semi-Finished,No,Installments,2044332.65
+New Cairo,78,4,4,2,Core & Shell,Yes,Cash,1554670.4
+El Obour,144,2,2,10,Core & Shell,No,Cash,700000.0
+Madinaty,224,3,3,12,Core & Shell,No,Cash,3905985.92
+6th of October,242,5,3,8,Semi-Finished,No,Cash,3708637.11
+6th of October,219,3,3,11,Core & Shell,No,Installments,2878775.83
+6th of October,99,3,3,7,Ultra Super Lux,No,Installments,1723100.89
+6th of October,323,3,4,3,Core & Shell,Yes,Cash,4013226.13
+Maadi,324,5,1,10,Ultra Super Lux,Yes,Cash,4700036.55
+Nasr City,199,4,1,9,Core & Shell,Yes,Cash,2288621.23
+New Cairo,195,1,3,8,Core & Shell,No,Cash,1474943.58
+Madinaty,145,2,1,6,Core & Shell,No,Cash,700000.0
+Madinaty,123,2,4,1,Super Lux,No,Installments,2110669.48
+Nasr City,138,3,3,0,Super Lux,Yes,Cash,1487624.05
+Nasr City,303,4,4,0,Semi-Finished,Yes,Installments,5052422.66
+Nasr City,193,5,4,12,Ultra Super Lux,No,Cash,6179471.98
+Maadi,379,1,2,2,Semi-Finished,No,Cash,1368876.96
+Nasr City,202,1,4,12,Ultra Super Lux,Yes,Cash,5194228.34
+Maadi,167,3,2,9,Semi-Finished,Yes,Cash,1465041.07
+El Obour,73,3,3,1,Semi-Finished,Yes,Installments,1065759.18
+El Obour,296,5,4,3,Core & Shell,No,Installments,4225126.33
+Madinaty,163,5,1,7,Core & Shell,Yes,Installments,1613866.94
+El Obour,282,5,3,4,Core & Shell,No,Cash,2893800.72
